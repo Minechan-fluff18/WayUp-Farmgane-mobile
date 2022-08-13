@@ -170,6 +170,9 @@ h2{
   .container {
     max-width: 720px;
   }
+  .logo{
+    text-align: center;
+  }
   .intro, .action-wrap .intro{
     margin: 24px auto;
   }
@@ -197,6 +200,9 @@ h2{
   .container {
     max-width: 540px;
   }
+  .logo{
+    text-align: center;
+  }
   .feature{
     flex-direction: column;
     text-align: center;
@@ -213,6 +219,9 @@ h2{
 @media (max-width: 575px) {
   .container {
     padding: 0 15px;
+  }
+  .logo{
+    text-align: center;
   }
   .cow-img{
     display: block;
