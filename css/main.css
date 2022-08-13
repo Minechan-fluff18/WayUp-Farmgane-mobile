@@ -170,7 +170,7 @@ h2{
   .container {
     max-width: 720px;
   }
-  .logo{
+  .logo-img{
     text-align: center;
   }
   .intro, .action-wrap .intro{
@@ -200,7 +200,7 @@ h2{
   .container {
     max-width: 540px;
   }
-  .logo{
+  .logo-img{
     text-align: center;
   }
   .feature{
@@ -220,7 +220,7 @@ h2{
   .container {
     padding: 0 15px;
   }
-  .logo{
+  .logo-img{
     text-align: center;
   }
   .cow-img{
